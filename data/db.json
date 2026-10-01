@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "image": "/images/images.jfif",
+      "title": "S25Ultra",
+      "short_description": "Dynamic AMOLED 2X QHD+ display with adaptive...",
+      "description": "About this itemStunning 6.9″ Dynamic AMOLED 2X QHD+ display with adaptive 1–120 Hz refresh rate, ultra‑bright up to ~2600 nits, HDR support, “Vision Booster,” and adaptive color tone — giving vivid colours, great outdoor visibility, and super‑smooth scrolling. Powerful internals: it runs on the new Snapdragon 8 Elite for Galaxy (3 nm) chip, with 12 GB (or in some markets up to 16 GB) RAM and up to 1 TB UFS 4.0 storage — offering significantly improved CPU/GPU/NPU performance, especially for AI tasks, gaming, and heavy multitasking. Advanced quad‑camera system: 200 MP wide main sensor, plus a 50 MP ultrawide, a 50 MP periscope telephoto (5× optical zoom), and a 10 MP telephoto (3× optical zoom) — giving flexibility from ultra‑wide through detailed telephoto shots, and strong performance in varied lighting. 5,000 mAh battery with 45 W fast wired charging, wireless charging (Qi2) and reverse wireless charging — balancing long battery life with flexible charging options. Durable, premium build: Titanium‑frame body, protected by Corning Gorilla Armor 2 glass, with IP68 dust/water resistance, ultrasonic in‑display fingerprint sensor, modern connectivity (5G, Wi‑Fi 7, Bluetooth, UWB, USB‑C), and long‑term software support (Android 15 / One UI 7, promised 7 major OS/security updates).",
+      "liveServer" : "npx json-server --watch ./db.json --port 8000 "
+      
+    },
+    {
+      "id": 2,
+      "image": "/images/images (1).jfif" ,
+      "title": "S25  pluse",
+      "short_description": "Dynamic AMOLED 2X QHD+ display (3120 × 1440)...",
+      "description": "About this item6.7‑inch Dynamic AMOLED 2X QHD+ display (3120 × 1440) with adaptive 1‑120 Hz refresh rate, HDR support, and up to ~2600 nits peak brightness — providing a large, sharp, and very bright screen. Powered by the custom Snapdragon 8 Elite (3 nm) chipset, paired with 12 GB RAM and fast UFS 4.0 storage — delivering strong performance for apps, multitasking, gaming, and new on‑device AI tasks. Triple‑rear camera system: 50 MP main (wide) + 12 MP ultra‑wide + 10 MP telephoto (3× optical zoom), plus a 12 MP front camera — capable of high‑quality photos and 8K / 4K video recording. 4, 900 mAh battery with 45 W wired fast charging, 15 W wireless charging and reverse wireless charging — giving solid all‑day battery life and flexible charging options. Built with premium materials (glass + aluminum frame, Gorilla Glass Victus 2), IP68 water/dust resistance, and includes long‑term support: Android 15 with One UI 7, and Samsung’s promise of up to 7 years of OS/security updates."
+    },
+    {
+      "id": 3,
+      "image": "/images/images (2).jfif",
+      "title": "s25 normal",
+      "short_description": "6.2 Dynamic LTPO AMOLED 2X QHD+, 120Hz Adaptive Refresh Rate...",
+      "description": "About this item 6.2 Dynamic LTPO AMOLED 2X QHD+, 120Hz Adaptive Refresh Rate, HDR10+, 1080x2340px, Android 15, up to 7 major Android upgrades, One UI 7 128GB, 12GB RAM, No SD Card Slot, Qualcomm Snapdragon 8 Elite (3nm), Octa-Core, Adreno 830 GPU, 4000mAh Battery Rear Camera: 50MP, f/1.8, wide + 10MP, f/2.4, telephoto + 12MP, f/2.2, ultrawide, Front Camera: 12MP, f/2.2, wide 2G: 850/900/1800/1900, 3G: UMTS 1(2100)/2(1900)/4(AWS)/5(850)/8(900), 4G LTE: 1/2/3/4/5/7/8/12/13/14/18/19/20/25/26/28/29/30/38/39/40/41/48/66/71, 5G: N1/2/5/7/25/28/41/66/71/77/78/257/258/260/261 SA/NSA/Sub6/mmWave - Nano-SIM + eSIM + eSIM (max 2 at a time) US Model - No Warranty. Compatible with Most GSM Carriers like AT&T, T-Mobile, MetroPCS, etc. Will Also work with CDMA Carriers Such as Verizon, Sprint."
+    }
+    
+  ]
+}
