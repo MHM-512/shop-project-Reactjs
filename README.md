@@ -1,7 +1,9 @@
   <p align="center">
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/9bbb4026-cb48-43dc-8b2e-27788ddb8a1f" />
-<img width="400"  alt="image" src="https://github.com/user-attachments/assets/e0bedee9-0269-4ed8-80f8-4e437fd230bb" />
-<img width="400 "  alt="image" src="https://github.com/user-attachments/assets/ad561135-1a4c-4821-a522-9697a810bf78" />
+<img width="200"  alt="1" src="https://github.com/user-attachments/assets/9c632f04-5c9b-4561-af95-a065685972ca" />
+<img width="350" alt="2" src="https://github.com/user-attachments/assets/3759832a-c338-47c4-9053-a68b0ab6d938" />
+<img width="400" alt="3" src="https://github.com/user-attachments/assets/6dd21081-6cde-4f4d-934f-ab61ac767eb7" />
+<img width="900" alt="Screenshot 2026-10-01 163021" src="https://github.com/user-attachments/assets/a9da4dee-c6b7-4e55-a16a-13f247d1ae26" />
+
   </p>
 
 ### React Authentication & Dashboard Project
